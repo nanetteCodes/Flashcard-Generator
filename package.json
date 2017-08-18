@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "The backend for a basic flashcard game. The game will essentially constitute an API that allows users to create two types of flashcards: Basic, and cloze-deleted, each of which corresponds to a different style of flashcard.",
+  "main": " ClozeCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njulius89/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njulius89/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/njulius89/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  }
+}
